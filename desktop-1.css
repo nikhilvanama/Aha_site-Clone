@@ -1,0 +1,382 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-PgR {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #232020;
+}
+.desktop-1-PgR .auto-group-5hdp-8e1 {
+  margin-bottom: 10.2rem;
+  width: 65.0735rem;
+  height: 31.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-PgR .auto-group-5hdp-8e1 .aha-removebg-preview-1-4nZ {
+  width: 13.2rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-PgR .auto-group-5hdp-8e1 .ellipse-1-NoF {
+  width: 65.0735rem;
+  height: 28.0404rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-PgR .auto-group-bwgd-81j {
+  margin-left: 44.4rem;
+  width: 176.4005rem;
+  height: 133.3129rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-2-SHK {
+  width: 129.4005rem;
+  height: 133.3129rem;
+  position: absolute;
+  left: 47rem;
+  top: 0;
+  filter: blur(0.2rem);
+  background-color: #353434;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-1-xmT {
+  width: 55.2rem;
+  height: 54rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  background-color: #171717;
+  border-radius: 2.1rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .lets-get-hU9 {
+  width: 20.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 10.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .started-BPK {
+  width: 18.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 14.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .item--toX {
+  width: 1.3rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 14.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ff6e2e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .union-bhw {
+  width: 1.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 11.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .mobile-number-k53 {
+  width: 13.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 22.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-5-Tk9 {
+  width: 32.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 25.6rem;
+  background-color: #3e3e3e;
+  border-radius: 3rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-10-NMK {
+  width: 32.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 32rem;
+  background-color: #ff6e2d;
+  border-radius: 3rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .line-1-HUH {
+  width: 0.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 26.7rem;
+  background-color: #505050;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .item-91-cmT {
+  width: 3.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 26.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-7-jLH {
+  width: 4rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 26.7rem;
+  background-color: #ff671f;
+  border-radius: 0.3rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-9-4tM {
+  width: 4rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 28.2rem;
+  background-color: #046a38;
+  border-radius: 0.3rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-8-c9B {
+  width: 4rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 27.5rem;
+  background-color: #ffffff;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .ellipse-2-wx9 {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 27.5rem;
+  background-color: #06038d;
+  border-radius: 0.5rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .star-1-t6h {
+  width: 0.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 27.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .proceed-d4H {
+  width: 7.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 33.1rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .or-use-one-of-the-following-options-irR {
+  width: 31rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 40.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-11-pPf {
+  width: 11rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 44.7rem;
+  border: solid 0.1rem #505050;
+  box-sizing: border-box;
+  background-color: #171717;
+  border-radius: 0.5rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-12-8QM {
+  width: 10.8rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 44.7rem;
+  border: solid 0.1rem #505050;
+  box-sizing: border-box;
+  background-color: #171717;
+  border-radius: 0.5rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-13-FE5 {
+  width: 11rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 35.1rem;
+  top: 44.7rem;
+  border: solid 0.1rem #505050;
+  box-sizing: border-box;
+  background-color: #171717;
+  border-radius: 0.5rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .gmail-wch {
+  width: 3.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 15.2rem;
+  top: 46.2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .ellipse-3-3vd {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23.3rem;
+  top: 45.7rem;
+  background-color: #001aa6;
+  border-radius: 1.2rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .facebook-nNR {
+  width: 5.7rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 46.2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .google-hkH {
+  width: 4.2rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 46.2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .g-RAV {
+  width: 1.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 37.25rem;
+  top: 45.8rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #150099;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .rectangle-14-8ah {
+  width: 3.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 45.8rem;
+  background-color: #ffffff;
+  border-radius: 0.7rem;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .mail-bg-1-f4q {
+  width: 3.2192rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 45.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-PgR .auto-group-bwgd-81j .f-BJ5 {
+  width: 1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 24rem;
+  top: 45.9rem;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
